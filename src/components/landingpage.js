@@ -17,7 +17,7 @@ class Landing extends Component {
                             <hr/>
 
                             <p>
-                                HTML/CSS | Bootstrap | JavaScript/Jquery | React | PHP | Python | Angular | Android | MySql
+                                HTML / CSS | Bootstrap | JavaScript / Jquery | React | PHP | Python | Angular | Android | MySql
                             </p>
 
                             <div className="social-links">
