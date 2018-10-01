@@ -1,9 +1,11 @@
+/*menu css*/
 .header-color {
   background: #7b4397;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #dc2430, #7b4397);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #dc2430, #7b4397); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
+/*landing page css*/
 .landing-grid {
   background: #7b4397;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #dc2430, #7b4397);  /* Chrome 10-25, Safari 5.1-6 */
@@ -65,10 +67,12 @@
   color: rgb(255, 0, 87);
 }
 
+/*project page css*/
 .projects-grid {
   display: flex;
 }
 
+/*Contact page css*/
 .contact-body {
   margin: auto;
   position: fixed;
@@ -106,4 +110,11 @@
 .contact-list i {
   font-size: 66px;
   padding-right: 5rem;
+}
+
+/*Resumw page css*/
+.resume-right-col {
+  background: #27221F;
+  color: white;
+  padding: 2em;
 }
